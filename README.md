@@ -39,7 +39,8 @@ Machine learning is a popular subset of data science that warrants specific atte
 HC data products are digital products that use AI platforms to visually support decision-making and help humans control complex systems. 
 Generally, a data product is the visually processed result, with the help of ML-algorithms, of complex data analysis of systems.
  
-Data products aim to make Wicked Problems accessible to humans.  
+Data products aim to resolve "Wicked Problems":
+
 * contain many interdependent influencing variables 
 * do not have right or wrong solutions, only good and bad ones 
 * can’t be solved with a formula and logic alone 
