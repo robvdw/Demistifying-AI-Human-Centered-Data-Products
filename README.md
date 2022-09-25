@@ -9,6 +9,8 @@ They serve two main goals:
 
 Chat-bots, Language Translation and Face recognition are prime examples of popular data products.
 
+https://robfvdw.medium.com/a-generic-approach-to-data-driven-activities-d85ad558b5fa
+
 # Scope
 A hands-on grounding of modern AI.
 
@@ -31,6 +33,8 @@ AI platforms aim to mimic & automatise tasks which otherwise require human perce
 * locomotion & manipulation
 * sentiment analysis
 * generalisation
+
+https://robfvdw.medium.com/the-world-wide-web-ai-safari-b2e4f7f90647
 
 Thus, AI platforms combine automated human perception, cognition and/or motor skills with data, thereby enabling the creation of novel data products. 
 Some platforms offer prebuilt ML algorithms and simplistic DS visualisation workflows with such features as drag-and-drop modeling and visual interfaces that easily connect necessary data to the end solution, while others require a greater knowledge of development and coding. 
