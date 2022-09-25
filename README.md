@@ -66,3 +66,6 @@ The course explores Neural Network data products based upon the following themes
 -	IPython/Jupyter Notebook Github repositories.
 
 # Main Deliverable
+
+
+https://github.com/robvdw/Demistifying-AI-Human-Centered-Data-Products/tree/main/DELIVERABLE
