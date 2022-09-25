@@ -67,5 +67,18 @@ The course explores Neural Network data products based upon the following themes
 
 # Main Deliverable
 
-
+The specification of the delivreable to complete this course and to be aligeble for grading can befound via the link given below.
 https://github.com/robvdw/Demistifying-AI-Human-Centered-Data-Products/tree/main/DELIVERABLE
+
+
+
+# Lessons
+The content of each lesson will become avaiable each week as a PDF document via: https://github.com/robvdw/RCA_AIG_042Q6_ARTIFICIAL_INTELLIGENCE/tree/main/Lessons
+| lessons  | week SEM02 | content
+| ------------- | ------------- | ------------- |
+Part 01 |  week 02	| Discovering the AI landscape
+Part 02 |  week 03-05 	| Defining AI & ML
+Part 03 |  week 05-07 	| Roadmap: Learn to write ML-code Yourself
+Part 04 |  week 08-11 	| Data Science: How to start your own ML-based AI-Project using AI framworks & Libraries
+Part 06 |  week 14 	| Explaining Grading + Summary + Q & A
+--------- |  week 14/20 	| Self study & Delivrable Completion
