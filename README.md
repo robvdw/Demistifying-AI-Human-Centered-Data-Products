@@ -18,6 +18,8 @@ Chat-bots, Language Translation and Face recognition are prime examples of [popu
 # Scope
 A hands-on grounding of modern AI.
 
+![image](https://user-images.githubusercontent.com/684692/196784360-b61f0756-88d0-4e4f-bc0d-bdd942c6ac18.png)
+
 The course provides a roadmap for building conceptual prototypes of Human-Centered (HC) data-products by means of AI-platforms. 
 
 AI platforms comprise software tools to build, deploy, and monitor machine learning algorithms. 
@@ -65,6 +67,10 @@ Lectures + coding examples will become availabe during the course itself.
 # Student Learning Outcomes:
 Participants are expected to have a mind-set of exploration and to study and learn beyond the class material itself (depending on their existing familiarity with the subject matter). This is not an academic course; we focus on skills.
 You will learn design principles and best practices: design motifs that work well within Natural Language Processing (NLP) & Computer Vision (CV) domains of AI. Understanding basic neural network coding, modeling & implementation. Students will come to understand neural networks and their underlying architecture. That is, exploring the training and use of neural networks with visualization tools and data playgrounds such as playground.tensorflow.org.
+
+![image](https://user-images.githubusercontent.com/684692/196785528-0aa84126-03ea-458e-96a4-f66640f8cd06.png)
+
+
 The course explores Neural Network data products based upon the following themes:
 
 -	Concepts: principles and foundations for the AI domains CV and NLP
@@ -74,6 +80,8 @@ The course explores Neural Network data products based upon the following themes
 -	IPython/Jupyter Notebook Github repositories.
 
 # Main Deliverable
+
+![image](https://user-images.githubusercontent.com/684692/196784816-f1a0e5d2-092a-489d-a3f2-d8548b071729.png)
 
 The specification of the [delivreable](https://github.com/robvdw/Demistifying-AI-Human-Centered-Data-Products/tree/main/DELIVERABLE) to complete this course and to be aligeble for grading can befound via the link given below.
 
