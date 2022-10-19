@@ -75,9 +75,8 @@ The course explores Neural Network data products based upon the following themes
 
 -	Concepts: principles and foundations for the AI domains CV and NLP
 - Algorithmics, Modeling & Data Science Basics
--	Python, Pytorch, Tensorflow, Keras.
 -	Machine Learning & Deep Learning Basics
--	IPython/Jupyter Notebook Github repositories.
+-	Tooling: IPython/Jupyter Notebook Github repositories.
 
 # Main Deliverable
 
@@ -91,7 +90,7 @@ The content of each lesson will become avaiable each week as a PDF document via:
 | ------------- | ------------- | ------------- |
 Part 01 |  week 02	| Discovering the AI landscape
 Part 02 |  week 03-05 	| Defining AI & ML
-Part 03 |  week 05-07 	| Roadmap: Learn to write ML-code Yourself
-Part 04 |  week 08    	| Data Science: How to start your own ML-based AI-Project using AI framworks & Libraries
+Part 03 |  week 05-07 	| Roadmap: Learn how to read AI-papers.
+Part 04 |  week 08    	| Data Science: Learn how to understand & explain ML-based AI-models 
 Part 06 |  week 09 	   | Explaining Grading + Summary + Q & A
 --------- |  week 10	| Self study & Delivrable Completion
