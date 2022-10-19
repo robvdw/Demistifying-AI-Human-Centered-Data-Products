@@ -1,4 +1,8 @@
 # Demistifying-AI-Human-Centered-Data-Products
+
+![image](https://user-images.githubusercontent.com/684692/196784027-bf34e4c8-b1cf-42c0-8daa-5bd817dee1d7.png)
+
+
 Human centered data products are digital products that use Artificial Intelligence [AI] technology to visually support decision-making and help humans control complex systems. 
 The data product landscape is dominated by data producers such as Apple, Microsoft, Tesla, Amazon, Tableau, Netflix. Typical application domains are insurance, e-commerce, streaming services, marketing and customer service solutions.
 
