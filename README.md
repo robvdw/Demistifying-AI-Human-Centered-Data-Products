@@ -7,9 +7,9 @@ They serve two main goals:
 1)	Facilitate users with an advanced capability
 2)	Provide businesses with a competitive advantage
 
-Chat-bots, Language Translation and Face recognition are prime examples of popular data products.
+Chat-bots, Language Translation and Face recognition are prime examples of [popular data products](https://robfvdw.medium.com/a-generic-approach-to-data-driven-activities-d85ad558b5fa).
 
-https://robfvdw.medium.com/a-generic-approach-to-data-driven-activities-d85ad558b5fa
+
 
 # Scope
 A hands-on grounding of modern AI.
@@ -19,7 +19,7 @@ The course provides a roadmap for building conceptual prototypes of Human-Center
 AI platforms comprise software tools to build, deploy, and monitor machine learning algorithms. 
 It involves the use of Data Science (DS) & Machine Learning (ML) models & algorithms to perform tasks that otherwise would be performed solely by humans. 
 
-AI platforms aim to mimic & automatise tasks which otherwise require human perception, cognition and/or motor skills:
+AI platforms aim to [mimic & automatise tasks which otherwise require human perception, cognition and/or motor skills](https://robfvdw.medium.com/the-world-wide-web-ai-safari-b2e4f7f90647):
 
 * pattern recognition, 
 * learning, logical reasoning & planning, 
@@ -34,7 +34,7 @@ AI platforms aim to mimic & automatise tasks which otherwise require human perce
 * sentiment analysis
 * generalisation
 
-https://robfvdw.medium.com/the-world-wide-web-ai-safari-b2e4f7f90647
+
 
 Thus, AI platforms combine automated human perception, cognition and/or motor skills with data, thereby enabling the creation of novel data products. 
 Some platforms offer prebuilt ML algorithms and simplistic DS visualisation workflows with such features as drag-and-drop modeling and visual interfaces that easily connect necessary data to the end solution, while others require a greater knowledge of development and coding. 
@@ -71,10 +71,7 @@ The course explores Neural Network data products based upon the following themes
 
 # Main Deliverable
 
-The specification of the delivreable to complete this course and to be aligeble for grading can befound via the link given below.
-https://github.com/robvdw/Demistifying-AI-Human-Centered-Data-Products/tree/main/DELIVERABLE
-
-
+The specification of the [delivreable](https://github.com/robvdw/Demistifying-AI-Human-Centered-Data-Products/tree/main/DELIVERABLE) to complete this course and to be aligeble for grading can befound via the link given below.
 
 # Lessons
 The content of each lesson will become avaiable each week as a PDF document via: https://github.com/robvdw/
