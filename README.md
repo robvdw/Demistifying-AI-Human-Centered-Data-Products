@@ -77,12 +77,13 @@ The course explores Neural Network data products based upon the following themes
 -	Machine Learning & Deep Learning Basics
 -	Tooling: IPython/Jupyter Notebook Github repositories.
 
+<!--
 # Main Deliverable
 
 ![image](https://user-images.githubusercontent.com/684692/196784816-f1a0e5d2-092a-489d-a3f2-d8548b071729.png)
 
 The specification of the [delivreable](https://github.com/robvdw/Demistifying-AI-Human-Centered-Data-Products/tree/main/DELIVERABLE) to complete this course and to be aligeble for grading can befound via the link given below.
-
+-->
 # Lessons
 The content of each lesson will become avaiable each week as a PDF document via: https://github.com/robvdw/
 | lessons  | week SEM02 | content
