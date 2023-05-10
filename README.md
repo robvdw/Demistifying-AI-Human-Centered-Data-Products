@@ -65,11 +65,10 @@ Lectures + coding examples will become availabe during the course itself.
 
 
 # Student Learning Outcomes:
-Participants are expected to have a mind-set of exploration and to study and learn beyond the class material itself (depending on their existing familiarity with the subject matter). This is not an academic course; we focus on skills.
-You will learn design principles and best practices: design motifs that work well within Natural Language Processing (NLP) & Computer Vision (CV) domains of AI. Understanding basic neural network coding, modeling & implementation. Students will come to understand neural networks and their underlying architecture. That is, exploring the training and use of neural networks with visualization tools and data playgrounds such as playground.tensorflow.org.
+Participants are expected to have a mind-set of exploration and to study and learn beyond the class material itself (depending on their existing familiarity with the subject matter). 
+This is not an academic course; we focus on skills.
 
-![image](https://user-images.githubusercontent.com/684692/196785528-0aa84126-03ea-458e-96a4-f66640f8cd06.png)
-
+You will aquire a basic insight into neural network modeling, through exploring the training and use of neural networks with visualization tools and data playgrounds such as the [tensorflow plaground](https://playground.tensorflow.org) or [Teachable machine](https://teachablemachine.withgoogle.com/v1/).
 
 The course explores Neural Network data products based upon the following themes:
 
