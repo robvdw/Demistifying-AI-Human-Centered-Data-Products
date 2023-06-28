@@ -79,7 +79,9 @@ The course explores Neural Network data products based upon the following themes
 -	Ethical discussion: Impact of AI on our Society.
 
 # Use of Generative AI & Large Language Models
-Use of Generative AI [Gen-AI] such as Co-Pilot, ChatGPT or BING is encouraged. It's important to make sure that other people are aware that these technologies were used. 
+Use of Generative AI [Gen-AI] such as Co-Pilot, ChatGPT or BING is encouraged. 
+
+It's important, however,  to make sure that other people are aware that these technologies were used. 
 
 This can be done by including references or citations in the code or documentation, or by making a statement in the README file or other documentation that the project relies on these technologies. 
 
