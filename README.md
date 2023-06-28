@@ -101,3 +101,4 @@ Part 03 |  week 05-07 	| Roadmap: Learn how to read AI-papers.
 Part 04 |  week 08    	| Data Science: Learn how to understand & explain ML-based AI-models 
 Part 06 |  week 09 	   | Explaining Grading + Summary + Q & A
 --------- |  week 10	| Self study & Delivrable Completion
+--------- | DEADLINE <br> 13 JULI |  Opleveren deliverable via  <br> LMS INLEVERMAP_P04
