@@ -99,6 +99,6 @@ Part 01 |  week 02	| Discovering the AI landscape
 Part 02 |  week 03-05 	| Defining AI & ML
 Part 03 |  week 05-07 	| Roadmap: Learn how to read AI-papers.
 Part 04 |  week 08    	| Data Science: Learn how to understand & explain ML-based AI-models 
-Part 06 |  week 09 	   | Explaining Grading + Summary + Q & A
+Part 06 |  week 09 	   | Self study 
 --------- |  week 10	| Self study & Delivrable Completion
 --------- | DEADLINE <br> 13 JULI |  Opleveren deliverable via  <br> LMS INLEVERMAP_P04 <br> VAKCODE: CMIDHP01K <br> Demystifying AI (2022-2023)
