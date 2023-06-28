@@ -78,7 +78,11 @@ The course explores Neural Network data products based upon the following themes
 -	Tooling: IPython/Jupyter Notebook Github repositories.
 
 # Use of Generative AI & Large Language Models
-Use of Generative AI [Gen-AI] such as Co-Pilot or ChatGPT is encouraged. It's important to make sure that other people are aware that these technologies were used. This can be done by including references or citations in the code or documentation, or by making a statement in the README file or other documentation that the project relies on these technologies. Additionally, it's also a good practice to include information about the limitations and potential biases of the technology in the documentation or code comments.
+Use of Generative AI [Gen-AI] such as Co-Pilot, ChatGPT or BING is encouraged. It's important to make sure that other people are aware that these technologies were used. 
+
+This can be done by including references or citations in the code or documentation, or by making a statement in the README file or other documentation that the project relies on these technologies. 
+
+Additionally, it's also a good practice to include information about the limitations and potential biases of the technology in the documentation or code comments.
 
 <!--
 # Main Deliverable
