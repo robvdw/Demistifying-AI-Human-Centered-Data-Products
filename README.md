@@ -12,6 +12,7 @@ They serve two main goals:
 2)	Provide businesses with a competitive advantage
 
 Chat-bots, Language Translation and Face recognition are prime examples of [popular data products](https://robfvdw.medium.com/a-generic-approach-to-data-driven-activities-d85ad558b5fa).
+To get some idee what AI anno 2023 is capablre of have a look at [The AI WEB-SAFARI]( https://robfvdw.medium.com/the-world-wide-web-ai-safari-b2e4f7f90647), here you find interactive online examples that you can try-out for yourself.
 
 
 
