@@ -72,10 +72,11 @@ You will aquire a basic insight into neural network modeling, through exploring 
 
 The course explores Neural Network data products based upon the following themes:
 
--	Concepts: principles and foundations for the AI domains CV and NLP
-- Algorithmics, Modeling & Data Science Basics
--	Machine Learning & Deep Learning Basics
--	Tooling: IPython/Jupyter Notebook Github repositories.
+-	Concepts: principles and foundations for the AI domains
+- Algorithmics, Modeling & Data Science Basics.
+-	Machine Learning & Deep Learning  * Foundation Models Basics.
+-	Tooling: Github repositories.
+-	Ethical discussion: Impact of AI on our Society.
 
 # Use of Generative AI & Large Language Models
 Use of Generative AI [Gen-AI] such as Co-Pilot, ChatGPT or BING is encouraged. It's important to make sure that other people are aware that these technologies were used. 
