@@ -82,6 +82,7 @@ The course explores Neural Network data products based upon the following themes
 Use of Generative AI [Gen-AI] such as Co-Pilot, ChatGPT or BING is encouraged. 
 
 It's important, however,  to make sure that other people are aware that these technologies were used. 
+Explain is some detail how and why you used + make references where this occurs in your stundent work and/or deliverable.
 
 This can be done by including references or citations in the code or documentation, or by making a statement in the README file or other documentation that the project relies on these technologies. 
 
