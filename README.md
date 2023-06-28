@@ -73,11 +73,11 @@ You will aquire a basic insight into neural network modeling, through exploring 
 
 The course explores Neural Network data products based upon the following themes:
 
--	Concepts: principles and foundations for the AI domains
-- Algorithmics, Modeling & Data Science Basics.
--	Machine Learning & Deep Learning  * Foundation Models Basics.
+-	[Concepts:](https://github.com/robvdw/Demistifying-AI-Human-Centered-Data-Products/blob/main/LESSONS/INTRO_DEMISTYFING_AI_KEUZEVAK-LES01-02_2023-FINsec.pdf) principles and foundations for the AI domains
+- [Algorithmics, Modeling & Data Science Basics](https://github.com/robvdw/Demistifying-AI-Human-Centered-Data-Products/blob/main/LESSONS/INTRO_DEMISTYFING_AI_KEUZEVAK-LES03-04_2023-FINsec.pdf).
+-	[Machine Learning & Deep Learning  * Foundation Models Basics](https://github.com/robvdw/Demistifying-AI-Human-Centered-Data-Products/blob/main/LESSONS/INTRO_DEMISTYFING_AI_KEUZEVAK-LES05-06_2023-FINsec.pdf).
 -	Tooling: Github repositories.
--	Ethical discussion: Impact of AI on our Society.
+-	[Ethical discussion](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD#1c-wat-zijn-ethische-risicos--schaduwkanten-van-chatgpt): [Impact of AI on our Society](https://github.com/robvdw/Demistifying-AI-Human-Centered-Data-Products/blob/main/LESSONS/INTRO_DEMISTYFING_AI_KEUZEVAK-LES07-08_2023-FINsec.pdf).
 
 # Use of Generative AI & Large Language Models
 Use of Generative AI [Gen-AI] such as Co-Pilot, ChatGPT or BING is encouraged. 
