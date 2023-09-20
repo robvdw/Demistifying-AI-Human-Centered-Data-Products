@@ -128,7 +128,7 @@ Part 06 |  week 09 	   | Self study
 | Creation of an informative infographic            | Fails to create an infographic or creates an ineffective one.                                                    | Creates a basic infographic with limited information.                                               | Creates an informative and visually appealing infographic showcasing AI's key features and applications.           |
 | Human involvement in problem selection             | Does not adequately discuss the role of humans in problem selection.                                           | Mentions human involvement briefly (e.g., "humans choose the problem").                                | Thoroughly discusses how humans play a crucial role in selecting AI problems, emphasizing their impact.           |
 
-**AI Data Product Description of ChatGPT**
+**AI Data Product Description of ChatGPT** OR equivalent AI data product 
 
 | Criteria                                          | Inadequate                                                                                           | Pass                                                                                                  | Good                                                                                                               |
 |---------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
