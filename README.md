@@ -1,4 +1,4 @@
-# Demistifying-AI-Human-Centered-Data-Products
+`# Demistifying-AI-Human-Centered-Data-Products
 
 ![image](https://user-images.githubusercontent.com/684692/196784027-bf34e4c8-b1cf-42c0-8daa-5bd817dee1d7.png)
 
@@ -106,4 +106,4 @@ Part 03 |  week 05-07 	| Roadmap: Learn how to read AI-papers.
 Part 04 |  week 08    	| Data Science: Learn how to understand & explain ML-based AI-models 
 Part 06 |  week 09 	   | Self study 
 --------- |  week 10	| Self study & Delivrable Completion
---------- | DEADLINE <br> 13 JULI |  Opleveren deliverable via  <br> LMS INLEVERMAP_P04 <br> VAKCODE: CMIDHP01K <br> Demystifying AI (2022-2023)
+--------- | DEADLINE <br> 10 NOVEMBER 2023 |  Opleveren deliverable via  <br> LMS INLEVERMAP_P04 <br> VAKCODE: CMIDHP01K <br> Demystifying AI (2023-2024)
