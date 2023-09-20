@@ -98,7 +98,7 @@ The specification of the [delivreable](https://github.com/robvdw/Demistifying-AI
 -->
 # Lessons
 The content of each lesson will become avaiable each week as a PDF document via: https://github.com/robvdw/
-| lessons  | week SEM02 <br> OP04 (2022-2023) | content
+| lessons  | week SEM01 <br> OP01 (2023-2024) | content
 | ------------- | ------------- | ------------- |
 Part 01 |  week 02	| Discovering the AI landscape
 Part 02 |  week 03-05 	| Defining AI & ML
