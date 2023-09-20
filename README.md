@@ -108,7 +108,7 @@ Part 06 |  week 09 	   | Self study
 --------- |  week 10	| Self study & Delivrable Completion
 --------- | DEADLINE <br> 10 NOVEMBER 2023 |  Opleveren deliverable via  <br> LMS INLEVERMAP_P04 <br> VAKCODE: CMIDHP01K <br> Demystifying AI (2023-2024)
 
-# Rubris
+# Rubrics
 
 **Main Deliverable**
 
