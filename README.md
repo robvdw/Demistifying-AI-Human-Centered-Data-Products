@@ -1,4 +1,4 @@
-`# Demistifying-AI-Human-Centered-Data-Products
+# Demistifying-AI-Human-Centered-Data-Products
 
 ![image](https://user-images.githubusercontent.com/684692/196784027-bf34e4c8-b1cf-42c0-8daa-5bd817dee1d7.png)
 
